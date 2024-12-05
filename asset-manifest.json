@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/link-showcase/static/css/main.e6c13ad2.css",
-    "main.js": "/link-showcase/static/js/main.d5dd9ec2.js",
-    "static/js/453.44f107ba.chunk.js": "/link-showcase/static/js/453.44f107ba.chunk.js",
-    "index.html": "/link-showcase/index.html",
-    "main.e6c13ad2.css.map": "/link-showcase/static/css/main.e6c13ad2.css.map",
-    "main.d5dd9ec2.js.map": "/link-showcase/static/js/main.d5dd9ec2.js.map",
-    "453.44f107ba.chunk.js.map": "/link-showcase/static/js/453.44f107ba.chunk.js.map"
+    "main.css": "/claude-ai-website-upload/static/css/main.e6c13ad2.css",
+    "main.js": "/claude-ai-website-upload/static/js/main.f980a76f.js",
+    "static/js/453.44f107ba.chunk.js": "/claude-ai-website-upload/static/js/453.44f107ba.chunk.js",
+    "index.html": "/claude-ai-website-upload/index.html",
+    "main.e6c13ad2.css.map": "/claude-ai-website-upload/static/css/main.e6c13ad2.css.map",
+    "main.f980a76f.js.map": "/claude-ai-website-upload/static/js/main.f980a76f.js.map",
+    "453.44f107ba.chunk.js.map": "/claude-ai-website-upload/static/js/453.44f107ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d5dd9ec2.js"
+    "static/js/main.f980a76f.js"
   ]
 }

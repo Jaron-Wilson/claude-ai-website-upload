@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/claude-ai-website-upload/static/css/main.e6c13ad2.css",
-    "main.js": "/claude-ai-website-upload/static/js/main.1e79dbad.js",
+    "main.js": "/claude-ai-website-upload/static/js/main.a62cf96b.js",
     "static/js/453.44f107ba.chunk.js": "/claude-ai-website-upload/static/js/453.44f107ba.chunk.js",
     "index.html": "/claude-ai-website-upload/index.html",
     "main.e6c13ad2.css.map": "/claude-ai-website-upload/static/css/main.e6c13ad2.css.map",
-    "main.1e79dbad.js.map": "/claude-ai-website-upload/static/js/main.1e79dbad.js.map",
+    "main.a62cf96b.js.map": "/claude-ai-website-upload/static/js/main.a62cf96b.js.map",
     "453.44f107ba.chunk.js.map": "/claude-ai-website-upload/static/js/453.44f107ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1e79dbad.js"
+    "static/js/main.a62cf96b.js"
   ]
 }
